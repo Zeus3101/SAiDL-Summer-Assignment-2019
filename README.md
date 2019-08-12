@@ -1,8 +1,8 @@
 # SAiDL-Summer-Assignment-2019
 
-For Task 1 despite several attempts, I've not been able to make it work. I've pasted a few of these attempts in a separate folder. In none of them was my neural network learning so I wasn't really sure what to do so I've left it as is. The cause seems to be that my weights and biases are all getting changed such that it moves my all predictions for the binary digits towards 0.5. 
+For Task 1 despite several attempts, I've not been able to make it work. I've pasted an earlier attempt too under the name NumpyNeuralNetwork_ObjectOriented.ipynb . In none of my attempts was my neural network learning so I wasn't really sure what to do so I've left it as is. The cause might be that my weights and biases are all getting changed such that it moves my all predictions for the binary digits towards 0.5.
 
-The submission is __NumpyNeuralNetwork_Final.ipynb__
+The submission is __NumpyNeuralNetwork_FinalTask1.ipynb__
 
 For Task 2, I've provided task2.md to help understand the code faster. I've not been able to implement anything more complex. 
 
