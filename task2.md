@@ -13,3 +13,5 @@ There are a number of things I'd like to improve in this. It is a very basic app
 1. Refine the way the way the __video_read()__ method works so that each label corresponds to a video instead of individual images of the video. This is causing a problem and decreasing the accuracy of the network drastically.
 2. Instead of making the classifier of the pretrained model a regular MLP, I wanted to try make it an RNN instead but couldn't get a clean implementation. 
 3. Speed up the video capturing process by incorporating threading. That would basically let me process multiple videos simultaneously. Either that or process multiple images at the same time. I couldn't implement either because I couldn't learn it well enough to apply over here in the stipulated time.
+
+### Note: There is an error in the way I'm calculating the accuracy right now. I'll only change that part slightly
